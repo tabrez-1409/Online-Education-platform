@@ -1,0 +1,5 @@
+.background{
+    background: rgba(0,0,0,0.7) url(images/from_top_of_the_rock__ryan_flicker.com.jpg);
+    background-blend-mode: darken;
+    background-size: cover;
+}
